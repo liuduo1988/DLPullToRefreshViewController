@@ -2,7 +2,7 @@ DLPullToRefreshViewController
 =============================
 继承自UITableViewController
 
-功能：
+功能：  
 1.下拉刷新  
 2.上拉加载更多（分页）  
 3.首次加载时不显示TableView  
